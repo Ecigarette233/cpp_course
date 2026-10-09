@@ -537,7 +537,6 @@ void WorkerManager::cleanEmp()
 	if (fileIsExist == 0)
 	{
 		cout << "文件已经清空" << endl;
-		return;
 	}
 	else
 	{
