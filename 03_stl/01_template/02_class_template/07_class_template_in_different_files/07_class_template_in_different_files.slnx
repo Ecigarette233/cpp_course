@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="07_class_template_in_different_files/07_class_template_in_different_files.vcxproj" />
+</Solution>
