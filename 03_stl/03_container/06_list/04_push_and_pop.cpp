@@ -1,9 +1,8 @@
 #include <iostream>
 using namespace std;
-#include <vector>
 
 int main()
 {
-    
+    cout<<"不想写代码"<<endl;
     return 0;
 }
